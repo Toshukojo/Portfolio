@@ -1,0 +1,133 @@
+body {
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.parallax {
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: none;
+}
+
+.parallax-main {
+	background-image: url("bg.jpg");
+	height: 100vh;
+}
+
+.main {
+	margin-top: 40vh;
+	text-align: center;
+}
+
+.main2 {
+	text-align: center;
+}
+
+.row {
+	margin-right: 10vw;
+}
+
+h1,
+h2,
+h3 {
+	color: white;
+}
+
+.navcss {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	background-color: #111111;
+}
+
+.navbar-default {
+	background-color: #111111;
+	border: black;
+}
+
+li {
+	padding-right: 5vw;
+	padding-left: 5vw;
+}
+
+.about,
+.skills,
+.contact {
+	height: 100vh;
+	opacity: 80%;
+	padding-top: 100px;
+}
+
+.black {
+	background-color: #111111;
+	height: 100vh;
+}
+
+.about-image {
+	padding-top: 100px;
+}
+
+p {
+	color: white;
+	font-size: 2.5rem;
+}
+
+.about-text {
+	padding-top: 25px;
+}
+
+.skills-projects {
+	padding-top: 200px;
+}
+
+.caption > p {
+	font-size: 1.5rem;
+}
+
+.btn-primary {
+	background-color: purple;
+	border: black;
+}
+
+.thumbnail {
+	background: #222222;
+}
+
+.skills-list {
+	color: white;
+	font-size: 3rem;
+}
+
+span {
+}
+
+.fab,
+.fas {
+	display: inline-block;
+}
+
+.contact-text {
+	padding-top: 350px;
+}
+
+.contact-email {
+	padding-top: 50px;
+}
+
+h1 {
+	font-size: 5rem;
+}
+
+h2 {
+	font-size: 4.3rem;
+}
+
+#name {
+	font-size: 4.7rem;
+}
+
+h3 {
+	font-size: 4rem;
+}
